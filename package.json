@@ -1,0 +1,22 @@
+{
+  "name": "jest2",
+  "version": "1.0.0",
+  "description": "just updating to check ive fixed computer issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devildex91/jest2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devildex91/jest2/issues"
+  },
+  "homepage": "https://github.com/devildex91/jest2#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
